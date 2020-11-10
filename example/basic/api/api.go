@@ -2,8 +2,8 @@ package api
 
 import (
 	"fmt"
-	"github.com/gin-gonic/gin"
-	"github.com/swaggo/swag/example/basic/web"
+	"github.com/fixbanking/gin"
+	"github.com/fixbanking/swag/example/basic/web"
 )
 
 //
