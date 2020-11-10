@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/fixxbanking/gin"
+	"github.com/fixbanking/gin"
 	"github.com/stretchr/testify/assert"
 	"github.com/fixbanking/gin-swagger/swaggerFiles"
 
